@@ -1,5 +1,5 @@
 <?
 
-echo "My name is Petr!"
+echo "My nickname is PetrNSK"
 
 ?>
